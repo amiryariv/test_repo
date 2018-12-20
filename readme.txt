@@ -1,2 +1,2 @@
-testing the repo
+testing the conflict
 test new branch
