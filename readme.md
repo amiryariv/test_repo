@@ -1,6 +1,6 @@
 # Amir's github repo
 
-## list of branched
+## list of branches
 
 - master
 - feature1
